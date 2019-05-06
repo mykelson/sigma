@@ -1,5 +1,5 @@
 # Sigma
-Sigma is a Python program that calculates the factorial of a given positive integer.
+Sigma is a Python program that calculates the factorial of given positive integer.
 
 ## Project status
 Project development has stopped completely
